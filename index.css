@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(241, 240, 239);
+}
+.form{
+    text-align: center;
+    height: 300px;
+    width:400px
+    /* pos:ition: relative; */
+}
+.formset{
+    position: relative;
+    border-radius: 2%;
+    background-color: rgb(162, 135, 122);
+    top: 100px;
+    left: 100px;
+
+    
+}
+#name ,#password,#pnum {
+    padding: 4px;
+    margin: 10px;
+}
+#submit{
+    padding: 5px;
+    margin: 7px;
+    background-color: rgb(246, 26, 195);
+    border-radius: 6px;
+}
